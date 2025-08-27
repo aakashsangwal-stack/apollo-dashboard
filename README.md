@@ -17,8 +17,11 @@ Doctor Feedback Volume → Displayed with a donut chart to understand patient fe
 The Dashboard was built using following tools and technologies:
 
 📊 Power Bi Deskstop- Main data visualization platformused for report creation
+
 🗂️ Power Query- Data transformation and cleaning layer for reshaping and preparing the data
+
 🎯 DAX- Used for calculated measure , dynamics visuals nad conditional logic 
+
 🗂️File Format - .pbix for development
 
 Data Source
